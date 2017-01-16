@@ -1,0 +1,13 @@
+Notes
+
+- In Sublime, can save html file, type html and press Tab to generate the following boilerplate code:
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+
+</body>
+</html>
+
+- In sublime, to toggle comment on a line, enter Cmd + /
