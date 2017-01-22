@@ -14,3 +14,4 @@ Notes
 - The <p> tag will block text together and add spacing after
 - Instead of <b>, use <strong>. Instead of <i>, use, <em> (for emphasis)
 - In sublime, to duplicate a line enter Cmd + Shift + D
+- In sublime, can type tag name then tab to autocomplete, e.g strong + Tab = <strong></strong>
