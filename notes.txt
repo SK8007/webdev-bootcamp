@@ -11,3 +11,6 @@ Notes
 </html>
 
 - In sublime, to toggle comment on a line, enter Cmd + /
+- The <p> tag will block text together and add spacing after
+- Instead of <b>, use <strong>. Instead of <i>, use, <em> (for emphasis)
+- In sublime, to duplicate a line enter Cmd + Shift + D
