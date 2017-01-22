@@ -10,8 +10,25 @@ Notes
 </body>
 </html>
 
+Sublime Hacks
 - In sublime, to toggle comment on a line, enter Cmd + /
-- The <p> tag will block text together and add spacing after
-- Instead of <b>, use <strong>. Instead of <i>, use, <em> (for emphasis)
 - In sublime, to duplicate a line enter Cmd + Shift + D
 - In sublime, can type tag name then tab to autocomplete, e.g strong + Tab = <strong></strong>
+- In sublime, enter lorem + Tab to generate placeholder text:
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
+
+HTML Elements
+- The <p> tag will block text together and add spacing after
+- Instead of <b>, use <strong>. Instead of <i>, use, <em> (for emphasis)
+- <div> element is a generic container
+- <div> is a block level generic container that takes up its own line similar to <p>
+- <span> is an inline container
+- <a href="https://www.google.com">This is an inline anchor link</a>
